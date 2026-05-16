@@ -1,6 +1,6 @@
 # Wi-Fi Sense
 
-A device-free motion detection prototype using Wi-Fi Channel State Information (CSI) collected between two ESP32-S3 microcontrollers communicating over ESP-NOW. No router required. No training data required. No cameras.
+A device-free motion detection prototype using Wi-Fi Channel State Information (CSI) collected between two ESP32-S3 microcontrollers communicating over ESP-NOW. No training data required. No cameras.
 
 ---
 
