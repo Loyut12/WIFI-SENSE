@@ -1,6 +1,6 @@
 # WIFI-SENSE
 
-# Wi-Fi Sense — ESP32-S3 CSI Motion Detection
+# Wi-Fi Sense ESP32-S3 CSI Motion Detection
 
 A device-free motion detection prototype using Wi-Fi Channel State Information (CSI) collected between two ESP32-S3 microcontrollers communicating over ESP-NOW. No router required. No training data required. No cameras.
 
